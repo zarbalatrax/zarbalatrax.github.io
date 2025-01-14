@@ -21,12 +21,18 @@
         />
       </header>
       <div>
-        <img
-          class="embark-on-zark"
-          src="assets/images/Zark_big.png"
-          alt="Embark on Zark"
-        />
+        <img class="embark-on-zark" src="assets/images/Zark_big.png" alt="Embark
+        on Zark" onmouseover="embarkOnZarkHover(this)"
+        onmouseout="embarkOnZarkOut(this)"" />
       </div>
     </div>
+    <script>
+      function embarkOnZarkHover(img) {
+        img.src = "assets/images/Zark_animation.gif";
+      }
+      function embarkOnZarkOut(img) {
+        img.src = "assets/images/Zark_big.png";
+      }
+    </script>
   </body>
 </html>
