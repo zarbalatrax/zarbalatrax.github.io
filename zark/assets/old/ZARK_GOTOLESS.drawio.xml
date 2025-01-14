@@ -40,22 +40,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="I am Zarbalatrax, King of Shadow Time" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;image=zarbalatrax.com/assets/image/zark/zarb_intro.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="I am Zarbalatrax, King of Shadow Time" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="-130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5UFCMfiumuRGdymlCH0p-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5UFCMfiumuRGdymlCH0p-7" target="5UFCMfiumuRGdymlCH0p-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5UFCMfiumuRGdymlCH0p-7" value="It&#39;s good to see you, old friend. We&#39;ve had many incredible experiences together." style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/assets/image/zark/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="5UFCMfiumuRGdymlCH0p-7" value="It&#39;s good to see you, old friend. We&#39;ve had many incredible experiences together." style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="10" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5UFCMfiumuRGdymlCH0p-8" value="I see you don&#39;t recognize me. I&#39;ve known you for as long as you&#39;ve been you... and before." style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/assets/image/zark/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="5UFCMfiumuRGdymlCH0p-8" value="I see you don&#39;t recognize me. I&#39;ve known you for as long as you&#39;ve been you... and before." style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="10" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5UFCMfiumuRGdymlCH0p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5UFCMfiumuRGdymlCH0p-9" target="5UFCMfiumuRGdymlCH0p-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5UFCMfiumuRGdymlCH0p-9" value="SILLY MORTAL! You make me laugh! I have a wonderful vacation home there." style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/assets/image/zark/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="5UFCMfiumuRGdymlCH0p-9" value="SILLY MORTAL! You make me laugh! I have a wonderful vacation home there." style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="10" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5UFCMfiumuRGdymlCH0p-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5UFCMfiumuRGdymlCH0p-10" target="5UFCMfiumuRGdymlCH0p-23" edge="1">
@@ -78,7 +78,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5UFCMfiumuRGdymlCH0p-10" value="Enough babble. I need your help. Will you trust me?" style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/assets/image/zark/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="5UFCMfiumuRGdymlCH0p-10" value="Enough babble. I need your help. Will you trust me?" style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="110" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5UFCMfiumuRGdymlCH0p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.541;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5UFCMfiumuRGdymlCH0p-8" target="5UFCMfiumuRGdymlCH0p-10" edge="1">
@@ -111,7 +111,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5UFCMfiumuRGdymlCH0p-23" value="&lt;div&gt;Close your eyes.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/assets/image/zark/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="5UFCMfiumuRGdymlCH0p-23" value="&lt;div&gt;Close your eyes.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="265" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5UFCMfiumuRGdymlCH0p-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5UFCMfiumuRGdymlCH0p-24" target="4wjNN05wD8vkoGd3nTRC-252" edge="1">
@@ -327,7 +327,7 @@
             <mxPoint x="45" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5UFCMfiumuRGdymlCH0p-59" value="&lt;div&gt;Inside the dumpster is a RACCOON. He&#39;s got a deep Boston Accent.&lt;/div&gt;&lt;div&gt;&quot;The Hell You Lookin&#39; At?!&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/talkingRaccoon.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="5UFCMfiumuRGdymlCH0p-59" value="&lt;div&gt;Inside the dumpster is a RACCOON. He&#39;s got a deep Boston Accent.&lt;/div&gt;&lt;div&gt;&quot;The Hell You Lookin&#39; At?!&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/talkingRaccoon.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="370" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.884;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5UFCMfiumuRGdymlCH0p-58" target="5UFCMfiumuRGdymlCH0p-26" edge="1">
@@ -530,7 +530,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-53" value="&quot;Fuck&#39;s wrong with you? Never seen a rad Rac&#39; like me? Call me Jumbo!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/talkingRaccoon.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-53" value="&quot;Fuck&#39;s wrong with you? Never seen a rad Rac&#39; like me? Call me Jumbo!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/talkingRaccoon.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1400" y="500" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-60" value="Interrogate the Raccoon." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-54" target="4wjNN05wD8vkoGd3nTRC-61" edge="1">
@@ -538,7 +538,7 @@
             <mxPoint x="1760" y="455.3103448275863" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-54" value="The RACCOON scurries in your grip, clawing a gnawing on your hand. Blood explodes from it." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/bloodied hand.png;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-54" value="The RACCOON scurries in your grip, clawing a gnawing on your hand. Blood explodes from it." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/bloodied hand.png;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1400" y="410" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.221;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-61" target="4wjNN05wD8vkoGd3nTRC-79" edge="1">
@@ -565,7 +565,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-61" value="&quot;Alright, alright! I&#39;ll tell you whatever you want, just please, don&#39;t hurt me!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/bloodymad.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-61" value="&quot;Alright, alright! I&#39;ll tell you whatever you want, just please, don&#39;t hurt me!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/bloodymad.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1760" y="410" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-66" target="4wjNN05wD8vkoGd3nTRC-69" edge="1">
@@ -588,7 +588,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-66" value="In college, I got too drunk at a party. I got in a fight in a back alley. I couldn&#39;t stop myself. My girlfriend at the time begged me to stop, but I couldn&#39;t until... well... he&#39;s paralyzed from the neck down. I never got to apologize. He didn&#39;t press charges." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/bloodyregular.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-66" value="In college, I got too drunk at a party. I got in a fight in a back alley. I couldn&#39;t stop myself. My girlfriend at the time begged me to stop, but I couldn&#39;t until... well... he&#39;s paralyzed from the neck down. I never got to apologize. He didn&#39;t press charges." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/bloodyregular.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2000" y="300" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.559;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-69" target="4wjNN05wD8vkoGd3nTRC-79" edge="1">
@@ -601,7 +601,7 @@
             <mxPoint y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-69" value="The raccoon cries uncontrollably." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/cryingRaccoon.png;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-69" value="The raccoon cries uncontrollably." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/cryingRaccoon.png;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2000" y="190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.827;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-73" target="4wjNN05wD8vkoGd3nTRC-79" edge="1">
@@ -614,7 +614,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-73" value="&lt;div&gt;The raccoon sniffles. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;I&#39;ve come to terms with it. I&#39;m a better man for it.&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/bloodyregular.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-73" value="&lt;div&gt;The raccoon sniffles. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;I&#39;ve come to terms with it. I&#39;m a better man for it.&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/bloodyregular.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2170" y="190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.962;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-79" target="4wjNN05wD8vkoGd3nTRC-86" edge="1">
@@ -640,7 +640,7 @@
             <mxPoint x="-23" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-79" value="&quot;Don&#39;t know him personally, but I&#39;ve partied with his partner, Squambo. A good friend, real good.&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/bloodyregular.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-79" value="&quot;Don&#39;t know him personally, but I&#39;ve partied with his partner, Squambo. A good friend, real good.&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/bloodyregular.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1800" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-87" value="Let him go." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.409;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-86" target="4wjNN05wD8vkoGd3nTRC-88" edge="1">
@@ -661,10 +661,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-86" value="The raccoon blushes, or, it might be the blood rushing to his head from you choking him." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/blushingRaccoon.png;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-86" value="The raccoon blushes, or, it might be the blood rushing to his head from you choking him." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/blushingRaccoon.png;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1630" y="-160" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-88" value="&quot;Christ! You could&#39;ve killed me!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/bloodymad.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-88" value="&quot;Christ! You could&#39;ve killed me!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/bloodymad.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1610" y="-300" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-89" target="4wjNN05wD8vkoGd3nTRC-213" edge="1">
@@ -682,7 +682,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-89" value="&quot;At THE ARCADE! Now, leave me the hell alone!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/bloodymad.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-89" value="&quot;At THE ARCADE! Now, leave me the hell alone!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/bloodymad.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1940" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.562;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-88" target="4wjNN05wD8vkoGd3nTRC-89" edge="1">
@@ -716,7 +716,7 @@
             <mxPoint x="9" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-105" value="&lt;div&gt;&quot;Well, I can, idiot! Fuck you!&lt;/div&gt;&lt;div&gt;The raccoon slams the door of the dumpster shut.&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/talkingRaccoon.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-105" value="&lt;div&gt;&quot;Well, I can, idiot! Fuck you!&lt;/div&gt;&lt;div&gt;The raccoon slams the door of the dumpster shut.&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/talkingRaccoon.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1190" y="630" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.665;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-105" target="5UFCMfiumuRGdymlCH0p-26" edge="1">
@@ -781,7 +781,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wjNN05wD8vkoGd3nTRC-114" value="&quot;I won&#39;t tell you anything! Leave me alone!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/assets/image/zark/talkingRaccoon.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4wjNN05wD8vkoGd3nTRC-114" value="&quot;I won&#39;t tell you anything! Leave me alone!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;image=zarbalatrax.com/zark/assets/images/talkingRaccoon.gif;zarbAssetWidth=50%;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1460" y="630" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wjNN05wD8vkoGd3nTRC-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.187;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wjNN05wD8vkoGd3nTRC-118" target="4wjNN05wD8vkoGd3nTRC-128" edge="1">
