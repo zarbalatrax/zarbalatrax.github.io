@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Perfect DOS VGA 437';
+    src: url('assets/Perfect\ DOS\ VGA\ 437.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    line-height: 1.5;
+    font: 20px 'Perfect DOS VGA 437', monospace;
+}
+
+#game-container {
+    padding: 2em;
+    margin: auto;
+    width: 60%;
+}
+
+img {
+    display: block;
+    margin: 0.5em auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    margin: auto;
+    font: 20px 'Perfect DOS VGA 437';
+    line-height: 1.5;
+}
+
+a, button {
+    color: #fff;
+    cursor: pointer;
+}
+
+a:hover, button:hover {
+    color: #999;
+}
