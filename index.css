@@ -1,0 +1,50 @@
+:root {
+  /* --background-image: url("./assets/images/space.gif"); */
+  --background-image: #000;
+  --font-color: #fff;
+  --font: "Times New Roman";
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  background: var(--background-image);
+  color: var(--font-color);
+  font-family: var(--font);
+}
+
+.wrapper {
+  margin: auto;
+  padding: 2rem;
+  width: 75%;
+  height: 100%;
+  background: #000;
+}
+
+.wrapper header {
+  position: relative;
+  display: block;
+  aspect-ratio: 1;
+  height: 500px;
+}
+
+.zarbalatrax-wink {
+  width: 600px;
+}
+
+.zarbalatrax-star {
+  position: absolute;
+  top: 180px;
+  left: 15px;
+}
+
+.embark-on-zark {
+  float: right;
+}
