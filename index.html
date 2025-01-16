@@ -19,22 +19,69 @@
           src="assets/images/star_1.gif"
           alt="Star"
         />
+        <!-- Buttons Section -->
+        <div class="buttons">
+          <a href="#">
+            <img
+              class="button"
+              src="assets/images/Buttons/DigitalFortune_button.png"
+              alt="Digital Fortune"
+              onmouseover="this.src='assets/images/Buttons/DigitalFortune_button_clicked.png'"
+              onmouseout="this.src='assets/images/Buttons/DigitalFortune_button.png'"
+            />
+          </a>
+          <a href="#">
+            <img
+              class="button"
+              src="assets/images/Buttons/Gallery_button.png"
+              alt="Gallery"
+              onmouseover="this.src='assets/images/Buttons/Gallery_button_clicked.png'"
+              onmouseout="this.src='assets/images/Buttons/Gallery_button.png'"
+            />
+          </a>
+          <a href="https://www.youtube.com/watch?v=0xlQzBdseFs">
+            <img
+              class="button"
+              src="assets/images/Buttons/ShortFilm_button.png"
+              alt="Short Film"
+              onmouseover="this.src='assets/images/Buttons/ShortFilm_button_click.png'"
+              onmouseout="this.src='assets/images/Buttons/ShortFilm_button.png'"
+            />
+          </a>
+          <a href="#">
+            <img
+              class="button"
+              src="assets/images/Buttons/Squambo_Button.png"
+              alt="Squambo"
+              onmouseover="this.src='assets/images/Buttons/Squambo_Button_clicked.png'"
+              onmouseout="this.src='assets/images/Buttons/Squambo_Button.png'"
+              onclick="alert('squambo is on vacation. please check back later')"
+            />
+          </a>
+          <a href="#">
+            <img
+              class="button"
+              src="assets/images/Buttons/ZarbWiki_button.png"
+              alt="Zarb Wiki"
+              onmouseover="this.src='assets/images/Buttons/ZarbWiki_button_clicked.png'"
+              onmouseout="this.src='assets/images/Buttons/ZarbWiki_button.png'"
+            />
+          </a>
+        </div>
       </header>
-      <div>
-        <a href="/zark"
-          ><img class="embark-on-zark" src="assets/images/Zark_big.png"
-          alt="Embark on Zark" onmouseover="embarkOnZarkHover(this)"
-          onmouseout="embarkOnZarkOut(this)"" /></a
-        >
+
+      <div class="main-content">
+        <!-- Embark on Zark Link -->
+        <a href="/zark">
+          <img
+            class="embark-on-zark"
+            src="assets/images/Zark_big.png"
+            alt="Embark on Zark"
+            onmouseover="this.src='assets/images/Zark_animation.gif'"
+            onmouseout="this.src='assets/images/Zark_big.png'"
+          />
+        </a>
       </div>
     </div>
-    <script>
-      function embarkOnZarkHover(img) {
-        img.src = "assets/images/Zark_animation.gif";
-      }
-      function embarkOnZarkOut(img) {
-        img.src = "assets/images/Zark_big.png";
-      }
-    </script>
   </body>
 </html>

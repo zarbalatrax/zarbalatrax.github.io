@@ -1,8 +1,9 @@
 :root {
-  /* --background-image: url("./assets/images/space.gif"); */
-  --background-image: #000;
+  --background: #000;
+  --background-image: url("./assets/images/space.gif");
   --font-color: #fff;
   --font: "Times New Roman";
+  --spacing: 30px;
 }
 
 html,
@@ -11,11 +12,10 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow: hidden;
 }
 
 body {
-  background: var(--background-image);
+  background: var(--background);
   color: var(--font-color);
   font-family: var(--font);
 }
@@ -32,11 +32,11 @@ body {
   position: relative;
   display: block;
   aspect-ratio: 1;
-  height: 500px;
+  height: 700px;
 }
 
 .zarbalatrax-wink {
-  width: 600px;
+  width: 800px;
 }
 
 .zarbalatrax-star {
@@ -48,4 +48,47 @@ body {
 .embark-on-zark {
   margin-left: 200px;
   width: 500px;
+  transition: all 0.3s ease;
+}
+
+.embark-on-zark:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.buttons {
+  margin-top: -20px;
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+.button {
+  width: 150px;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.button:hover {
+  transform: scale(1.1);
+}
+
+.buttons a:nth-child(1) .button {
+  top: calc(var(--spacing) * 0);
+}
+
+.buttons a:nth-child(2) .button {
+  top: calc(var(--spacing) * -1);
+}
+
+.buttons a:nth-child(3) .button {
+  top: calc(var(--spacing) * -2);
+}
+
+.buttons a:nth-child(4) .button {
+  top: calc(var(--spacing) * -3);
+}
+
+.buttons a:nth-child(5) .button {
+  top: calc(var(--spacing) * -4);
 }
