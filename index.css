@@ -25,7 +25,7 @@ body {
   padding: 2rem;
   width: 75%;
   height: 100%;
-  background: #000;
+  background: var(--background);
 }
 
 .wrapper header {
@@ -41,8 +41,8 @@ body {
 
 .zarbalatrax-star {
   position: absolute;
-  top: 180px;
-  left: 15px;
+  top: 245px;
+  left: 22px;
 }
 
 .embark-on-zark {
