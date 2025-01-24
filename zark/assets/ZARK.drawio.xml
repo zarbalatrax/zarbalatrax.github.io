@@ -54,7 +54,7 @@
             <mxPoint y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ic9kyqorPHD7hh2t7iiy-9" value="I am Zarbalatrax, King of Shadow Time. &lt;br&gt;Tell me, what do you fear? " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;image=zarbalatrax.com/assets/images/zark/zarb_intro.gif;zarbAssetWidth=50%;" vertex="1" parent="1">
+        <mxCell id="ic9kyqorPHD7hh2t7iiy-9" value="I am Zarbalatrax, King of Shadow Time. &lt;br&gt;Tell me, what do you fear? " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;zarbAssetWidth=50%;" vertex="1" parent="1">
           <mxGeometry x="820" y="-1030" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ic9kyqorPHD7hh2t7iiy-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ic9kyqorPHD7hh2t7iiy-11" target="ic9kyqorPHD7hh2t7iiy-32">
@@ -73,7 +73,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ic9kyqorPHD7hh2t7iiy-11" value="Ahh, I see. The paradox of the dark. Either something is there, or it is not. Tell me, are you brave?" style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/assets/images/zark/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" vertex="1" parent="1">
+        <mxCell id="ic9kyqorPHD7hh2t7iiy-11" value="Ahh, I see. The paradox of the dark. Either something is there, or it is not. Tell me, are you brave?" style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" vertex="1" parent="1">
           <mxGeometry x="690" y="-890" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ic9kyqorPHD7hh2t7iiy-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ic9kyqorPHD7hh2t7iiy-13" target="ic9kyqorPHD7hh2t7iiy-38">
@@ -92,7 +92,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ic9kyqorPHD7hh2t7iiy-13" value="To be alone is to face your true self. Tell me, do you like what you see?" style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/assets/images/zark/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" vertex="1" parent="1">
+        <mxCell id="ic9kyqorPHD7hh2t7iiy-13" value="To be alone is to face your true self. Tell me, do you like what you see?" style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" vertex="1" parent="1">
           <mxGeometry x="875" y="-890" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ic9kyqorPHD7hh2t7iiy-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ic9kyqorPHD7hh2t7iiy-15" target="ic9kyqorPHD7hh2t7iiy-44">
@@ -106,7 +106,7 @@
         <mxCell id="ic9kyqorPHD7hh2t7iiy-46" value="Someone close to me" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ic9kyqorPHD7hh2t7iiy-15" target="ic9kyqorPHD7hh2t7iiy-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ic9kyqorPHD7hh2t7iiy-15" value="The Beast. I don&#39;t blame you. Tell me, do you fear possession of yourself or a loved one?" style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/assets/images/zark/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" vertex="1" parent="1">
+        <mxCell id="ic9kyqorPHD7hh2t7iiy-15" value="The Beast. I don&#39;t blame you. Tell me, do you fear possession of yourself or a loved one?" style="rounded=1;whiteSpace=wrap;html=1;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;glass=0;strokeWidth=1;shadow=0;zarbAssetWidth=50%;" vertex="1" parent="1">
           <mxGeometry x="1070" y="-890" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ic9kyqorPHD7hh2t7iiy-28" value="GOTO: 1A" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#b85450;" vertex="1" parent="1">
@@ -296,7 +296,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ic9kyqorPHD7hh2t7iiy-185" value="Welcome back. &lt;br&gt;It seems your fate brought you back here.&lt;br&gt;Tell me, what do you fear? " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;image=zarbalatrax.com/assets/images/zark/zarb_intro.gif;zarbAssetWidth=50%;" vertex="1" parent="1">
+        <mxCell id="ic9kyqorPHD7hh2t7iiy-185" value="Welcome back. &lt;br&gt;It seems your fate brought you back here.&lt;br&gt;Tell me, what do you fear? " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;image=zarbalatrax.com/zark/assets/images/zarb_intro.gif;zarbAssetWidth=50%;" vertex="1" parent="1">
           <mxGeometry x="530" y="-1120" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ic9kyqorPHD7hh2t7iiy-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ic9kyqorPHD7hh2t7iiy-193" target="ic9kyqorPHD7hh2t7iiy-200">
