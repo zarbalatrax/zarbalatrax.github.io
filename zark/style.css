@@ -23,7 +23,7 @@ body {
   width: 60%;
 }
 
-img {
+.zark-image {
   display: block;
   margin: 0.5em auto;
 }
@@ -64,10 +64,17 @@ button:hover {
 }
 
 .zark-enemy {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 256px;
 }
 
 .slash {
+  position: absolute;
   height: 256px;
+  padding: 0;
+  margin-bottom: 0;
+  margin-left: -100px;
   margin-top: -256px;
 }
