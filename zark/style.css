@@ -62,3 +62,12 @@ button:hover {
 .zark-option * {
   color: #fff !important;
 }
+
+.zark-enemy {
+  height: 256px;
+}
+
+.slash {
+  height: 256px;
+  margin-top: -256px;
+}
