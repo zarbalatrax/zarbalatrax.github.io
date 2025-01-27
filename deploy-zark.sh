@@ -1,4 +1,5 @@
 #!/bin/bash
+git pull
 rm -rf zark
 mkdir zark
 cd dependencies/zark
