@@ -7,6 +7,7 @@ git pull
 bun install
 bun compile
 cp -r public/* ../../zark
+cd ../../
 git add zark
 git commit -am "epic update"
 git push
